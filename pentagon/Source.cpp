@@ -4,7 +4,7 @@
 #include "ComplexFigure.h"
 #include "Stack.h"
 #include <iostream>
-
+// коментарий
 const int NotUsed = system("color F0");
 
 int main()
