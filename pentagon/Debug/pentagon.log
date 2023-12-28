@@ -1,0 +1,32 @@
+﻿  Circle.cpp
+  ComplexFigure.cpp
+  Pentagon.cpp
+C:\12345\pentagon\pentagon\Pentagon.cpp(14,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(15,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(16,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(17,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(18,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(19,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(20,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(21,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(44,65): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\12345\pentagon\pentagon\Pentagon.cpp(44,65): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(44,97): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\12345\pentagon\pentagon\Pentagon.cpp(44,97): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(45,24): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\12345\pentagon\pentagon\Pentagon.cpp(45,24): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(45,56): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\12345\pentagon\pentagon\Pentagon.cpp(45,56): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(46,23): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\12345\pentagon\pentagon\Pentagon.cpp(46,23): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(46,55): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\12345\pentagon\pentagon\Pentagon.cpp(46,55): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(47,22): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\12345\pentagon\pentagon\Pentagon.cpp(47,22): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\12345\pentagon\pentagon\Pentagon.cpp(47,54): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\12345\pentagon\pentagon\Pentagon.cpp(47,54): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  Shape.cpp
+  Source.cpp
+  Stack.cpp
+  Создание кода...
+  pentagon.vcxproj -> C:\12345\pentagon\Debug\pentagon.exe
